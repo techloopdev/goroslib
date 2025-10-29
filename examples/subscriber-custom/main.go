@@ -6,8 +6,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/bluenviron/goroslib/v2"
-	"github.com/bluenviron/goroslib/v2/pkg/msg"
+	"github.com/techloopdev/goroslib/v2"
+	"github.com/techloopdev/goroslib/v2/pkg/msg"
 )
 
 // TestMessage is a custom message.

@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/goroslib/v2/pkg/xmlrpc"
+	"github.com/techloopdev/goroslib/v2/pkg/xmlrpc"
 )
 
 func TestClient(t *testing.T) {

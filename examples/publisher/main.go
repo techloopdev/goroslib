@@ -7,9 +7,9 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/bluenviron/goroslib/v2"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/geometry_msgs"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/sensor_msgs"
+	"github.com/techloopdev/goroslib/v2"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/geometry_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/sensor_msgs"
 )
 
 func main() {

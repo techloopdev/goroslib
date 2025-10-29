@@ -11,11 +11,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluenviron/goroslib/v2/pkg/apislave"
-	"github.com/bluenviron/goroslib/v2/pkg/msgproc"
-	"github.com/bluenviron/goroslib/v2/pkg/protocommon"
-	"github.com/bluenviron/goroslib/v2/pkg/prototcp"
-	"github.com/bluenviron/goroslib/v2/pkg/protoudp"
+	"github.com/techloopdev/goroslib/v2/pkg/apislave"
+	"github.com/techloopdev/goroslib/v2/pkg/msgproc"
+	"github.com/techloopdev/goroslib/v2/pkg/protocommon"
+	"github.com/techloopdev/goroslib/v2/pkg/prototcp"
+	"github.com/techloopdev/goroslib/v2/pkg/protoudp"
 )
 
 // PublisherConf is the configuration of a Publisher.

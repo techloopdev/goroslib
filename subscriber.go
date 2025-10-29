@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/bluenviron/goroslib/v2/pkg/msgproc"
+	"github.com/techloopdev/goroslib/v2/pkg/msgproc"
 )
 
 // Protocol is a ROS stream protocol.

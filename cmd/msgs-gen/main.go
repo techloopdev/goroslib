@@ -11,7 +11,7 @@ import (
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
 
-	"github.com/bluenviron/goroslib/v2/pkg/conversion"
+	"github.com/techloopdev/goroslib/v2/pkg/conversion"
 )
 
 func shellCommand(cmdstr string) error {

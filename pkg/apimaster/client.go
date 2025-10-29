@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/bluenviron/goroslib/v2/pkg/xmlrpc"
+	"github.com/techloopdev/goroslib/v2/pkg/xmlrpc"
 )
 
 // Client is a Master API client.

@@ -4,7 +4,7 @@ package main
 import (
 	"log"
 
-	"github.com/bluenviron/goroslib/v2"
+	"github.com/techloopdev/goroslib/v2"
 )
 
 func main() {

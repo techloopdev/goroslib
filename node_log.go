@@ -7,8 +7,8 @@ import (
 
 	"github.com/gookit/color"
 
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/rosgraph_msgs"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/std_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/rosgraph_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/std_msgs"
 )
 
 // LogLevel is the level of a log message.

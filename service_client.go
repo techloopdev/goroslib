@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluenviron/goroslib/v2/pkg/msgproc"
-	"github.com/bluenviron/goroslib/v2/pkg/protocommon"
-	"github.com/bluenviron/goroslib/v2/pkg/prototcp"
-	"github.com/bluenviron/goroslib/v2/pkg/serviceproc"
+	"github.com/techloopdev/goroslib/v2/pkg/msgproc"
+	"github.com/techloopdev/goroslib/v2/pkg/protocommon"
+	"github.com/techloopdev/goroslib/v2/pkg/prototcp"
+	"github.com/techloopdev/goroslib/v2/pkg/serviceproc"
 )
 
 // ServiceClientConf is the configuration of a ServiceClient.

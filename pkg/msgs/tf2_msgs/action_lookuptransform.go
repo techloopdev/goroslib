@@ -5,8 +5,8 @@ package tf2_msgs
 import (
 	"time"
 
-	"github.com/bluenviron/goroslib/v2/pkg/msg"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/geometry_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msg"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/geometry_msgs"
 )
 
 type LookupTransformActionGoal struct {

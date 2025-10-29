@@ -12,8 +12,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/goroslib/v2/pkg/apislave"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/std_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/apislave"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/std_msgs"
 )
 
 type containerMaster struct {

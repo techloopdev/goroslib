@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluenviron/goroslib/v2/pkg/actionproc"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/actionlib_msgs"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/std_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/actionproc"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/actionlib_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/std_msgs"
 )
 
 // ActionClientCommState is the communication state of the goal of an action client.

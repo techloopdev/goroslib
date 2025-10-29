@@ -5,7 +5,7 @@ package control_msgs
 import (
 	"time"
 
-	"github.com/bluenviron/goroslib/v2/pkg/msg"
+	"github.com/techloopdev/goroslib/v2/pkg/msg"
 )
 
 type QueryTrajectoryStateReq struct {

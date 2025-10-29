@@ -1,7 +1,7 @@
 package serviceproc
 
 import (
-	"github.com/bluenviron/goroslib/v2/pkg/msgproc"
+	"github.com/techloopdev/goroslib/v2/pkg/msgproc"
 )
 
 // Type returns the type of a service.

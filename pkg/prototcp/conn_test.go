@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/goroslib/v2/pkg/protocommon"
+	"github.com/techloopdev/goroslib/v2/pkg/protocommon"
 )
 
 func TestConn(t *testing.T) {

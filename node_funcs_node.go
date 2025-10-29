@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bluenviron/goroslib/v2/pkg/apislave"
+	"github.com/techloopdev/goroslib/v2/pkg/apislave"
 )
 
 // InfoConnection contains information about a connection.

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	rmsg "github.com/bluenviron/goroslib/v2/pkg/msg"
+	rmsg "github.com/techloopdev/goroslib/v2/pkg/msg"
 )
 
 // Type returns the type of a message, which has the format "Package/Name".

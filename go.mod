@@ -1,4 +1,4 @@
-module github.com/bluenviron/goroslib/v2
+module github.com/techloopdev/goroslib/v2
 
 go 1.23.0
 

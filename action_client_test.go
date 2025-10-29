@@ -7,10 +7,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/goroslib/v2/pkg/actionproc"
-	"github.com/bluenviron/goroslib/v2/pkg/msg"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/actionlib_msgs"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/std_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/actionproc"
+	"github.com/techloopdev/goroslib/v2/pkg/msg"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/actionlib_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/std_msgs"
 )
 
 type DoSomethingActionGoal struct {

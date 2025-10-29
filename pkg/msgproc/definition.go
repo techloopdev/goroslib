@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	rmsg "github.com/bluenviron/goroslib/v2/pkg/msg"
+	rmsg "github.com/techloopdev/goroslib/v2/pkg/msg"
 )
 
 type def struct {

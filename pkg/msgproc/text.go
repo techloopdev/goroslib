@@ -10,7 +10,7 @@ import (
 	"time"
 	"unicode"
 
-	rmsg "github.com/bluenviron/goroslib/v2/pkg/msg"
+	rmsg "github.com/techloopdev/goroslib/v2/pkg/msg"
 )
 
 func camelToSnake(in string) string {

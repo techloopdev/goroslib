@@ -2,7 +2,7 @@
 Package goroslib is a library in pure Go that allows to build clients (nodes)
 for the Robot Operating System (ROS).
 
-Examples are available at https://github.com/bluenviron/goroslib/tree/main/examples
+Examples are available at https://github.com/techloopdev/goroslib/tree/main/examples
 */
 package goroslib
 
@@ -18,12 +18,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluenviron/goroslib/v2/pkg/apimaster"
-	"github.com/bluenviron/goroslib/v2/pkg/apiparam"
-	"github.com/bluenviron/goroslib/v2/pkg/apislave"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/rosgraph_msgs"
-	"github.com/bluenviron/goroslib/v2/pkg/prototcp"
-	"github.com/bluenviron/goroslib/v2/pkg/protoudp"
+	"github.com/techloopdev/goroslib/v2/pkg/apimaster"
+	"github.com/techloopdev/goroslib/v2/pkg/apiparam"
+	"github.com/techloopdev/goroslib/v2/pkg/apislave"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/rosgraph_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/prototcp"
+	"github.com/techloopdev/goroslib/v2/pkg/protoudp"
 )
 
 const (

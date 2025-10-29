@@ -3,8 +3,8 @@
 package geometry_msgs
 
 import (
-	"github.com/bluenviron/goroslib/v2/pkg/msg"
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/std_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msg"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/std_msgs"
 )
 
 type PoseWithCovarianceStamped struct {

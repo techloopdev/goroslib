@@ -3,7 +3,7 @@
 package geometry_msgs
 
 import (
-	"github.com/bluenviron/goroslib/v2/pkg/msg"
+	"github.com/techloopdev/goroslib/v2/pkg/msg"
 )
 
 type Pose2D struct {

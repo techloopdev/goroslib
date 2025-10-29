@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/goroslib/v2/pkg/msgs/rosgraph_msgs"
+	"github.com/techloopdev/goroslib/v2/pkg/msgs/rosgraph_msgs"
 )
 
 func TestNodeLog(t *testing.T) {
