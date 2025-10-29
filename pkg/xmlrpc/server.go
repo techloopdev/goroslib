@@ -129,6 +129,7 @@ func (s *Server) Serve(handler ServerHandler) {
 	select {
 	case s.setHandler <- handler:
 	case <-s.ctx.Done():
+		return
 	}
-	s.wg.Wait()
+	<-s.ctx.Done()
 }
