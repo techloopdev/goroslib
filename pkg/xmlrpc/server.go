@@ -5,7 +5,6 @@ import (
 	"net"
 	"net/http"
 	"net/url"
-	"sync"
 	"time"
 )
 
@@ -21,7 +20,6 @@ type ServerHandler func(*RequestRaw) interface{}
 type Server struct {
 	ctx       context.Context
 	ctxCancel func()
-	wg        sync.WaitGroup
 	ln        net.Listener
 	hs        *http.Server
 	handler   ServerHandler
